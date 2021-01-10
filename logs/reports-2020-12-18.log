@@ -1,0 +1,6 @@
+20:11:42.512 [TestNG-tests-2] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xa8acc4430fa4442d
+20:11:42.554 [TestNG-tests-2] INFO  resources.base - Driver is initialized
+20:11:43.670 [TestNG-tests-2] INFO  resources.base - Window is maximised
+20:12:00.207 [TestNG-tests-2] INFO  resources.base - Sign in button is clicked
+20:12:00.484 [TestNG-tests-2] INFO  resources.base - Successfully logged in
+20:12:05.144 [TestNG-tests-2] INFO  resources.base - Sign in button is clicked

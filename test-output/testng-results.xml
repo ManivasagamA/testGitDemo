@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-18T19:54:00 IST" name="Default suite" finished-at="2020-12-18T19:54:15 IST" duration-ms="15845">
+    <groups>
+    </groups>
+    <test started-at="2020-12-18T19:54:00 IST" name="Default test" finished-at="2020-12-18T19:54:15 IST" duration-ms="15845">
+      <class name="Manivasagam.titlevalidation">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Manivasagam.titlevalidation@61a88b8c]" started-at="2020-12-18T19:54:00 IST" name="initialize" finished-at="2020-12-18T19:54:15 IST" duration-ms="15538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="basenavigation()[pri:0, instance:Manivasagam.titlevalidation@61a88b8c]" started-at="2020-12-18T19:54:15 IST" name="basenavigation" finished-at="2020-12-18T19:54:15 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basenavigation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Manivasagam.titlevalidation@61a88b8c]" started-at="2020-12-18T19:54:15 IST" name="teardown" finished-at="2020-12-18T19:54:15 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Manivasagam.titlevalidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

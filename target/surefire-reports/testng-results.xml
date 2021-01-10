@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-08T17:38:35 IST" name="Suite" finished-at="2021-01-08T17:38:53 IST" duration-ms="17404">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:CucumberOptions.TestRunner@4686afc2]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2021-01-08T17:38:35 IST" name="User Login" finished-at="2021-01-08T17:38:35 IST" duration-ms="4">
+    </test> <!-- User Login -->
+    <test started-at="2021-01-08T17:38:35 IST" name="Validating title of QAclick Academy" finished-at="2021-01-08T17:38:53 IST" duration-ms="17404">
+      <class name="CucumberOptions.TestRunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:CucumberOptions.TestRunner@4686afc2]" started-at="2021-01-08T17:38:35 IST" name="setUpClass" finished-at="2021-01-08T17:38:36 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:CucumberOptions.TestRunner@4686afc2]" started-at="2021-01-08T17:38:36 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-01-08T17:38:46 IST" duration-ms="10772" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[QA ClickAcademy Application Login]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:CucumberOptions.TestRunner@4686afc2]" started-at="2021-01-08T17:38:46 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-01-08T17:38:53 IST" duration-ms="6386" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[QA ClickAcademy Application Login]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:CucumberOptions.TestRunner@4686afc2]" started-at="2021-01-08T17:38:53 IST" name="tearDownClass" finished-at="2021-01-08T17:38:53 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- CucumberOptions.TestRunner -->
+    </test> <!-- Validating title of QAclick Academy -->
+  </suite> <!-- Suite -->
+</testng-results>
