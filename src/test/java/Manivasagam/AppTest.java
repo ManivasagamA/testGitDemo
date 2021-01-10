@@ -9,7 +9,7 @@ public class AppTest {
 log.debug("Hi Mani");
 log.fatal("Bye");
 log.error("Hi Error");
-log.error("Hi Errorrr");
+log.error("Hi Error");
 log.debug("find");
 	}
 
