@@ -29,7 +29,7 @@ public  void basenavigation () throws IOException   {
 		Landingpage lp1 =new Landingpage(driver);
 Assert.assertEquals(lp1.title().getText(), "FEATURED COURSES");
 Assert.assertTrue(lp1.navbar().isDisplayed());
-log.error("Nav bar is displayed");
+log.error("Nav bar is displayed now");
 }
 
 @AfterTest

@@ -23,7 +23,7 @@ public class homepage extends base {
 		log.info("Driver is initialized");
 		driver.manage().window().maximize();
 		log.info("Window is maximised");
-		log.info("Window is maximised1");
+		log.info("Window is maximised123");
 	}
 	
 	@Test(dataProvider="getData")
